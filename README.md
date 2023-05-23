@@ -24,12 +24,5 @@ All the tests of this project should run properly
 
 
 
-
-4. Adicione o repositório com a sua solução;
-5. Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Utilize o tempo para:
-- Explicar o objetivo do desafio
-- Quais tecnologias foram utilizadas
-- Mostrar a aplicação em funcionamento
-- Foque em pontos obrigatórios e diferenciais quando for apresentar.
-6. Adicione o link da apresentação do seu projeto no README.md.
-7. Verifique se o Readme está bom e faça o commit final em seu repositório;
+#The video link:
+https://www.loom.com/share/26a2d34f334744568a31525f19d3086c

@@ -6,8 +6,8 @@ const div = require('./div');
 test("Check if it works", () => {
     expect(div(4, 2)).toBe(2);
 })
-test("Check if does a division with natural numbers", () => {
-    expect(div(16, 4)).toBe(4);
+test("Check if does a per 1 division", () => {
+    expect(div(2, 1)).toBe(2);
 })
 test("Check if does a not decimal division", () => {
     expect(div(7, 2)).toBe(3.5);
