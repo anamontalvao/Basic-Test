@@ -15,12 +15,12 @@ test("Check if does a not decimal division", () => {
 test("Check if does a negative division", () => {
     expect(div(7, -2)).toBe(-3.5);
 })
-test("Check if does a negative division", () => {
+test("Check if does a division per zero", () => {
     expect(div(7, 0)).toBe(Infinity);
 })
 test("Check if does a inverse division", () => {
-    expect(div(5.58, 1.55)).toBe(3.6);
+    expect(div(1.665, 5.55)).toBe(0.3);
 })
-test("Check if does a inverse division with big numbers", () => {
+test("Check if does a division with big numbers", () => {
     expect(div(793548328091516928, 396774164045758460)).toBe(2);
 })
